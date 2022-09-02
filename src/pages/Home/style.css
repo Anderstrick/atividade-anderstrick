@@ -1,0 +1,17 @@
+.select {
+    width: 400px;
+    margin: 20px;
+
+    position: absolute;
+    left: 728px;
+}
+
+.button {
+    position: absolute;
+    top: 300px;
+    right: 500px;
+}
+
+.button-select {
+    margin-left: 890px;
+}
